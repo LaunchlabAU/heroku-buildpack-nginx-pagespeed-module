@@ -4,8 +4,8 @@
 set -e
 
 # config
-NGINX_VERSION='1.7.0'
-NGINX_PACKAGE='https://www.dropbox.com/s/8ev4wkzw7b6ex5z/nginx_ps_1.7.0.tgz?dl=1'
+NGINX_VERSION='1.9.5'
+NGINX_PACKAGE='https://www.dropbox.com/s/k27u9nakpc79uzo/nginx_ps_1.9.5.tgz?dl=1'
 
 # parse and derive params
 BUILD_DIR=$1
